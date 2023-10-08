@@ -1,2 +1,0 @@
-# yolo_example
-yoloテスト

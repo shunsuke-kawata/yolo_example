@@ -1,0 +1,9 @@
+version: '3'
+services:
+  python3:
+    build: .
+    container_name: 'python-yolo'
+    working_dir: '/tmp/work/'
+    tty: true
+    volumes:
+      - ./:/tmp/work
