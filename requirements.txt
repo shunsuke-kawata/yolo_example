@@ -6,3 +6,5 @@ pandas
 scipy
 torch
 torchvision
+opencv-python
+ultralytics
